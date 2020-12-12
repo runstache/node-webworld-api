@@ -1,0 +1,19 @@
+{
+  "name": "webworld-api",
+  "version": "1.0.0",
+  "description": "Api for Main Web Site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runstache/node-webworld-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runstache/node-webworld-api/issues"
+  },
+  "homepage": "https://github.com/runstache/node-webworld-api#readme"
+}
